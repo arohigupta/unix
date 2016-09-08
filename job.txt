@@ -1,0 +1,2 @@
+Filesystem              1M-blocks  Used Available Use% Mounted on
+/dev/mapper/centos-root      6818  1889      4930  28% /
